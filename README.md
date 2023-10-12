@@ -1,3 +1,4 @@
 # Penetrationtest
 
-Ich gibts sämtliche Informationen zur Weiterbildung zum Penetrationstester
+Ablage von Informationen zu den verschiedensten Hacking- und Pentesterkursen.
+
