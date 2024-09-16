@@ -1,4 +1,4 @@
 # Penetrationtest
 
-Ablage von Informationen zu den verschiedensten Hacking- und Pentesterkursen.
+Ablage von Informationen zu den verschiedensten CTFs.
 
